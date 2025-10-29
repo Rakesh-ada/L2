@@ -18,7 +18,6 @@ html, body{
 #main{
     height: 100%;
     width: 100%;
-    background-color: red;
     display: flex;
 }
 
@@ -32,13 +31,13 @@ html, body{
 #right{
     width: 60%;
     height: 100%;
-    background-color: rgb(230, 255, 3);
+
 }
 
 #rtop{
     width:100%;
     height:50%;
-    background-color: green;
+   
     display: flex;
 }
 
